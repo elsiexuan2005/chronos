@@ -1,0 +1,242 @@
+[
+  {
+    "topic": "Level 1",
+    "question": "45 + 23",
+    "code": "",
+    "answer": "68",
+    "category": 1,
+    "difficulty": 1
+  },
+  {
+    "topic": "Level 1",
+    "question": "78 - 34",
+    "code": "",
+    "answer": "44",
+    "category": 1,
+    "difficulty": 1
+  },
+  {
+    "topic": "Level 1",
+    "question": "56 + 31",
+    "code": "",
+    "answer": "87",
+    "category": 1,
+    "difficulty": 1
+  },
+  {
+    "topic": "Level 1",
+    "question": "99 - 52",
+    "code": "",
+    "answer": "47",
+    "category": 1,
+    "difficulty": 1
+  },
+  {
+    "topic": "Level 1",
+    "question": "21 + 64",
+    "code": "",
+    "answer": "85",
+    "category": 1,
+    "difficulty": 1
+  },
+  {
+    "topic": "Level 1",
+    "question": "87 - 45",
+    "code": "",
+    "answer": "42",
+    "category": 1,
+    "difficulty": 1
+  },
+  {
+    "topic": "Level 2",
+    "question": "47 + 38",
+    "code": "",
+    "answer": "85",
+    "category": 2,
+    "difficulty": 2
+  },
+  {
+    "topic": "Level 2",
+    "question": "62 - 27",
+    "code": "",
+    "answer": "35",
+    "category": 2,
+    "difficulty": 2
+  },
+  {
+    "topic": "Level 2",
+    "question": "58 + 26",
+    "code": "",
+    "answer": "84",
+    "category": 2,
+    "difficulty": 2
+  },
+  {
+    "topic": "Level 2",
+    "question": "71 - 39",
+    "code": "",
+    "answer": "32",
+    "category": 2,
+    "difficulty": 2
+  },
+  {
+    "topic": "Level 2",
+    "question": "39 + 45",
+    "code": "",
+    "answer": "84",
+    "category": 2,
+    "difficulty": 2
+  },
+  {
+    "topic": "Level 2",
+    "question": "83 - 48",
+    "code": "",
+    "answer": "35",
+    "category": 2,
+    "difficulty": 2
+  },
+  {
+    "topic": "Level 3",
+    "question": "12 * 14",
+    "code": "",
+    "answer": "168",
+    "category": 3,
+    "difficulty": 3
+  },
+  {
+    "topic": "Level 3",
+    "question": "13 * 15",
+    "code": "",
+    "answer": "195",
+    "category": 3,
+    "difficulty": 3
+  },
+  {
+    "topic": "Level 3",
+    "question": "11 * 17",
+    "code": "",
+    "answer": "187",
+    "category": 3,
+    "difficulty": 3
+  },
+  {
+    "topic": "Level 3",
+    "question": "14 * 16",
+    "code": "",
+    "answer": "224",
+    "category": 3,
+    "difficulty": 3
+  },
+  {
+    "topic": "Level 3",
+    "question": "15 * 18",
+    "code": "",
+    "answer": "270",
+    "category": 3,
+    "difficulty": 3
+  },
+  {
+    "topic": "Level 3",
+    "question": "17 * 19",
+    "code": "",
+    "answer": "323",
+    "category": 3,
+    "difficulty": 3
+  },
+  {
+    "topic": "Level 4",
+    "question": "2*x + 5 = 15",
+    "code": "",
+    "answer": "5",
+    "category": 4,
+    "difficulty": 4
+  },
+  {
+    "topic": "Level 4",
+    "question": "3*x - 4 = 11",
+    "code": "",
+    "answer": "5",
+    "category": 4,
+    "difficulty": 4
+  },
+  {
+    "topic": "Level 4",
+    "question": "4*x + 7 = 27",
+    "code": "",
+    "answer": "5",
+    "category": 4,
+    "difficulty": 4
+  },
+  {
+    "topic": "Level 4",
+    "question": "5*x - 3 = 22",
+    "code": "",
+    "answer": "5",
+    "category": 4,
+    "difficulty": 4
+  },
+  {
+    "topic": "Level 4",
+    "question": "6*x + 10 = 40",
+    "code": "",
+    "answer": "5",
+    "category": 4,
+    "difficulty": 4
+  },
+  {
+    "topic": "Level 4",
+    "question": "7*x - 6 = 29",
+    "code": "",
+    "answer": "5",
+    "category": 4,
+    "difficulty": 4
+  },
+  {
+    "topic": "Level 5",
+    "question": "2*(x + 3) = 16",
+    "code": "",
+    "answer": "5",
+    "category": 5,
+    "difficulty": 5
+  },
+  {
+    "topic": "Level 5",
+    "question": "3*x + 4 = 2*x + 9",
+    "code": "",
+    "answer": "5",
+    "category": 5,
+    "difficulty": 5
+  },
+  {
+    "topic": "Level 5",
+    "question": "4*(x - 2) = 12",
+    "code": "",
+    "answer": "5",
+    "category": 5,
+    "difficulty": 5
+  },
+  {
+    "topic": "Level 5",
+    "question": "5*x - 5 = 3*x + 5",
+    "code": "",
+    "answer": "5",
+    "category": 5,
+    "difficulty": 5
+  },
+  {
+    "topic": "Level 5",
+    "question": "3*(x + 1) = 2*x + 8",
+    "code": "",
+    "answer": "5",
+    "category": 5,
+    "difficulty": 5
+  },
+  {
+    "topic": "Level 5",
+    "question": "6*x - 10 = 4*x",
+    "code": "",
+    "answer": "5",
+    "category": 5,
+    "difficulty": 5
+  }
+]
